@@ -144,7 +144,7 @@ As the **Lead Flutter Developer**, I was responsible for:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                      NAJEEB BOOKS ARCHITECTURE                       │
+│                      NAJEEB BOOKS ARCHITECTURE                      │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌──────────────┐     ┌──────────────┐                              │
@@ -161,10 +161,10 @@ As the **Lead Flutter Developer**, I was responsible for:
 │                   │                                                 │
 │    ┌──────────────┼──────────────┐                                  │
 │    │              │              │                                  │
-│  ┌─▼────┐    ┌────▼────┐    ┌───▼──────┐                            │
-│  │Firebase│   │RevenueCat│   │Just Audio│                           │
-│  │Backend │   │  Subs   │   │ Player  │                            │
-│  └─┬──────┘   └─────────┘   └──────────┘                            │
+│  ┌─▼──────┐  ┌────▼─────┐    ┌───▼──────┐                           │
+│  │Firebase│  │RevenueCat│    │Just Audio│                           │
+│  │Backend │  │  Subs    │    │ Player   │                           │
+│  └─┬──────┘  └──────────┘    └──────────┘                           │
 │    │                                                                │
 │  ┌─┴────────────────────────────────────────┐                       │
 │  │ • Firestore (Books, Chapters, Progress)  │                       │
