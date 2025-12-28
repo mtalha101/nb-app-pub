@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app_icon.jpg" alt="Najeeb Logo" width="120" height="120" style="border-radius: 20px;"/>
+  <img src="assets/icon.png" alt="Najeeb Logo" width="120" height="120" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">Najeeb Books</h1>
