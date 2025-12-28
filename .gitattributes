@@ -1,0 +1,26 @@
+# Language detection for GitHub statistics
+# Ensure Dart has the highest percentage
+
+# Dart files - count all Dart files
+*.dart linguist-detectable=true
+*.dart linguist-language=Dart
+
+# Kotlin files - count Kotlin files
+*.kt linguist-detectable=true
+*.kt linguist-language=Kotlin
+*.kts linguist-detectable=true
+*.kts linguist-language=Kotlin
+
+# Swift files - count Swift files
+*.swift linguist-detectable=true
+*.swift linguist-language=Swift
+
+# Markdown files - mark as documentation (doesn't count toward code stats)
+*.md linguist-documentation=true
+
+# Exclude generated/vendored files from statistics
+**/Generated*.dart linguist-generated=true
+**/generated/** linguist-generated=true
+**/build/** linguist-vendored=true
+**/.dart_tool/** linguist-vendored=true
+
